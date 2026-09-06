@@ -1,0 +1,10 @@
+{
+  "name": "jmbg-provjera",
+  "version": "1.0.0",
+  "description": "Provjera JMBG-a s razlogom odbijanja. Bez zavisnosti.",
+  "main": "jmbg.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "MIT"
+}
